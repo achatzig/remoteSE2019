@@ -10,7 +10,7 @@ public class GUI extends JFrame {
 	
 	public GUI() {
 		
-		panel.setBackground(Color.MAGENTA);
+		panel.setBackground(Color.RED);
 		this.setContentPane(panel);
 		
 		
