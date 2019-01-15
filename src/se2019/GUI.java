@@ -15,6 +15,7 @@ public class GUI extends JFrame {
 		
 		
 		this.setVisible(true);
+		this.setTitle("Window Name");
 		
 		this.setSize(300, 300);
 		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
